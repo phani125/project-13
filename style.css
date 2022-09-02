@@ -188,6 +188,7 @@ header li {
 }
 
 
+
 @media screen and (max-width:1000px) {
 
   .card-group{
@@ -234,8 +235,12 @@ header li {
 
    [alt="web-server"]{
     width: 100% !important;
-    padding-left: 6rem;
+ /*   padding-left: 6rem; */
     }
+  
+   [alt="saas-illustration"]{
+    height = 300px;  
+   }
 
 }
 
