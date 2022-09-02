@@ -238,8 +238,8 @@ header li {
  /*   padding-left: 6rem; */
     }
   
-   [alt="saas-illustration"]{
-    height = 300px;  
+   img {
+    height: 300px;
    }
 
 }
