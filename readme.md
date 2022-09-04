@@ -21,4 +21,4 @@ Made by **Phani Sai**
 
 ## Time taken:
 
-- This project took me 3hrs to build from scratch
+- I took 3hrs to build from scratch
