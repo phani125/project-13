@@ -2,6 +2,10 @@
 
 Made by **Phani Sai**
 
+Deployed Link
+
+[Project Link](phani-sai-project-13.netlify.app)
+
 ## Preview:
 
 ![Desktop view](./Desktop.png)
